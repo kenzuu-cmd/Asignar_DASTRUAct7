@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -73,10 +73,15 @@ namespace Asignar_DASTRUAct6
                     Console.Write(name + " --> ");
                 }
                 Console.WriteLine("null");
+                Console.WriteLine("\nYour classmates' names in alphabetical order are: ");
+                foreach (string name in sortedClassmates)
+                {
+                    Console.WriteLine("- " + name);
+                }
 
-                // Finished!
-                Console.ReadKey();
-                Environment.Exit(0);
+            // Finished!
+            Console.ReadKey();
+            Environment.Exit(0);
             }
         }
     }
