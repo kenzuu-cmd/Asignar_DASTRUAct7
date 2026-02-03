@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{8BB1F00E-A74D-4AD2-92FC-6917F63AA8CD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Asignar_DASTRUAct6</RootNamespace>
-    <AssemblyName>Asignar_DASTRUAct6</AssemblyName>
+    <RootNamespace>Asignar_DASTRUAct7</RootNamespace>
+    <AssemblyName>Asignar_DASTRUAct7</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

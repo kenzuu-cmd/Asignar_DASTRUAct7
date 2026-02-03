@@ -1,7 +1,0 @@
-C:\Users\ACT-STUDENT\Desktop\Asignar_DASTRUAct6\Asignar_DASTRUAct6\bin\Debug\Asignar_DASTRUAct6.exe.config
-C:\Users\ACT-STUDENT\Desktop\Asignar_DASTRUAct6\Asignar_DASTRUAct6\bin\Debug\Asignar_DASTRUAct6.exe
-C:\Users\ACT-STUDENT\Desktop\Asignar_DASTRUAct6\Asignar_DASTRUAct6\bin\Debug\Asignar_DASTRUAct6.pdb
-C:\Users\ACT-STUDENT\Desktop\Asignar_DASTRUAct6\Asignar_DASTRUAct6\obj\Debug\Asignar_DASTRUAct6.csproj.AssemblyReference.cache
-C:\Users\ACT-STUDENT\Desktop\Asignar_DASTRUAct6\Asignar_DASTRUAct6\obj\Debug\Asignar_DASTRUAct6.csproj.CoreCompileInputs.cache
-C:\Users\ACT-STUDENT\Desktop\Asignar_DASTRUAct6\Asignar_DASTRUAct6\obj\Debug\Asignar_DASTRUAct6.exe
-C:\Users\ACT-STUDENT\Desktop\Asignar_DASTRUAct6\Asignar_DASTRUAct6\obj\Debug\Asignar_DASTRUAct6.pdb

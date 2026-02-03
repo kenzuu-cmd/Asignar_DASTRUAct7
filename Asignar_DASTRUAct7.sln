@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asignar_DASTRUAct6", "Asignar_DASTRUAct6\Asignar_DASTRUAct6.csproj", "{8BB1F00E-A74D-4AD2-92FC-6917F63AA8CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asignar_DASTRUAct7", "Asignar_DASTRUAct7\Asignar_DASTRUAct7.csproj", "{8BB1F00E-A74D-4AD2-92FC-6917F63AA8CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
