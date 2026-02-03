@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Asignar_DASTRUAct6
+namespace Asignar_DASTRUAct7
 {
     class Program
     {
 
-            // ACTIVITY 6: Inserting Nodes to the Linked List
+            // ACTIVITY 7: Inserting Nodes to the Linked List
             // KENJI L. ASIGNAR IT402P
             // Problem: Create a program that lets users input classmate names into a Linked List 
             // using loops and displays them, following a procedural approach.
