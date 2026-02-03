@@ -9,7 +9,7 @@ namespace Asignar_DASTRUAct7
     class Program
     {
 
-            // ACTIVITY 7: Inserting Nodes to the Linked List
+            // ACTIVITY 7:  Inserting Nodes with Exception Handling
             // KENJI L. ASIGNAR IT402P
             // Problem: Create a program that lets users input classmate names into a Linked List 
             // using loops and displays them, following a procedural approach.
@@ -85,4 +85,5 @@ namespace Asignar_DASTRUAct7
             }
         }
     }
+
 
